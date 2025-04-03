@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+*.exe
+*.dll
+*.pdb
+
+# OS files
+.DS_Store
