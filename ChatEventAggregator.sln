@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatEventAggregator", "ChatEventAggregator\ChatEventAggregator.csproj", "{73188874-C466-46A0-B0C2-C26522F56BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatEventAggregator.Infrastructure", "ChatEventAggregator.Infrastructure\ChatEventAggregator.Infrastructure.csproj", "{F2FDD67C-590C-43FD-86C4-AADADEBBBA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatEventAggregator.Common", "ChatEventAggregator.Common\ChatEventAggregator.Common.csproj", "{9C23FF70-B466-46E2-A815-1732B31CE21C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatEventAggregator.Testing", "ChatEventAggregator.Testing\ChatEventAggregator.Testing.csproj", "{A9C6673C-4707-443B-A74D-E2F76647280D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionItems) = preSolution
+    	README.md = README.md
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73188874-C466-46A0-B0C2-C26522F56BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73188874-C466-46A0-B0C2-C26522F56BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73188874-C466-46A0-B0C2-C26522F56BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73188874-C466-46A0-B0C2-C26522F56BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FDD67C-590C-43FD-86C4-AADADEBBBA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FDD67C-590C-43FD-86C4-AADADEBBBA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FDD67C-590C-43FD-86C4-AADADEBBBA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FDD67C-590C-43FD-86C4-AADADEBBBA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C23FF70-B466-46E2-A815-1732B31CE21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C23FF70-B466-46E2-A815-1732B31CE21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C23FF70-B466-46E2-A815-1732B31CE21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C23FF70-B466-46E2-A815-1732B31CE21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C6673C-4707-443B-A74D-E2F76647280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C6673C-4707-443B-A74D-E2F76647280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C6673C-4707-443B-A74D-E2F76647280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C6673C-4707-443B-A74D-E2F76647280D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

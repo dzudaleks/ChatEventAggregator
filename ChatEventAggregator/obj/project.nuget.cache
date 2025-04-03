@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "43PIo48mDlg=",
+  "success": true,
+  "projectFilePath": "/Users/aleksandra/Projects/ChatEventAggregator/ChatEventAggregator/ChatEventAggregator.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksandra/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.3/microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "/Users/aleksandra/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
